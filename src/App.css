@@ -1,0 +1,45 @@
+.wrapper {
+  padding: 16px;
+  max-width: 500px;
+  width: 100%;
+  position: relative;
+  left:50%;
+  transform: translate(-50%,0%);
+}
+
+li{
+  list-style-type: none;
+  margin: 10px 0px;
+}
+
+.text-align-r{
+  text-align: right;
+}
+
+.text-align-c{
+  text-align: center;
+}
+
+.w-100-p{
+  width: 100%;
+}
+
+.w-auto{
+  width: auto !important;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.hover:hover{
+  color: red;
+}
+
+.list-item:hover {
+  background: rgb(236, 236, 236);
+}
+
+.overflow-hidden {
+  text-overflow: hidden;
+}
